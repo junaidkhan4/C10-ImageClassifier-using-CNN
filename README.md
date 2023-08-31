@@ -31,4 +31,12 @@ Convolutional layer with 64 filters and (3, 3) kernel size
 Fully connected layer with 64 neurons
 Output layer with 10 neurons
 
+**Results**
+Our basic CNN achieved an accuracy of approximately 71.42% on the test set.
+
+**Future Improvements**
+Implement data augmentation to increase dataset diversity and potentially improve accuracy.
+Explore deeper architectures and regularization techniques such as dropout.
+Hyperparameter tuning using tools like Keras Tuner.
+
 
